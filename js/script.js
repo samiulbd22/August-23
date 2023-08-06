@@ -4,7 +4,7 @@ const members = {
     serviceBill     :35,
     othersBill      :0,
     runningMonth    :"August-23",
-    runningMealRate :45,
+    runningMealRate :49,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -41,7 +41,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :7,
+        running_meal    :9,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :4,
+        running_meal    :6,
         // method calling
         previousAddedDining,
         previousDue,
@@ -92,7 +92,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :3,
+	running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
@@ -118,7 +118,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :3,
+        running_meal    :6,
         // method calling
         previousAddedDining,
         previousDue,
@@ -169,7 +169,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :4,
+        running_meal    :6,
         // method calling
         previousAddedDining,
         previousDue,
@@ -195,7 +195,7 @@ const members = {
         garage_cost     :500,
         running_payable :0,
         running_paid    :0,
-        running_meal    :6,
+        running_meal    :8,
         // method calling
         previousAddedDining,
         previousDue,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :8,
+        running_meal    :10,
         // method calling
         previousAddedDining,
         previousDue,

@@ -4,7 +4,7 @@ const members = {
     serviceBill     :35,
     othersBill      :0,
     runningMonth    :"August-23",
-    runningMealRate :54,
+    runningMealRate :64,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -16,7 +16,7 @@ const members = {
         garage_cost     :0,
         running_payable :3000,
         running_paid    :5000,
-        running_meal    :10,
+        running_meal    :12,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :4775,
         running_paid    :7000,
-        running_meal    :12,
+        running_meal    :14,
         // method calling
         previousAddedDining,
         previousDue,
@@ -92,7 +92,7 @@ const members = {
         garage_cost     :0,
         running_payable :2742,
         running_paid    :2000,
-	running_meal    :10,
+	running_meal    :11,
         // method calling
         previousAddedDining,
         previousDue,
@@ -194,8 +194,8 @@ const members = {
         stay_cost       :2500,
         garage_cost     :500,
         running_payable :4191,
-        running_paid    :3000,
-        running_meal    :19,
+        running_paid    :4500,
+        running_meal    :21,
         // method calling
         previousAddedDining,
         previousDue,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :2663,
         running_paid    :0,
-        running_meal    :21,
+        running_meal    :22,
         // method calling
         previousAddedDining,
         previousDue,

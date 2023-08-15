@@ -91,7 +91,7 @@ const members = {
         stay_cost       :2000,
         garage_cost     :0,
         running_payable :2742,
-        running_paid    :2000,
+        running_paid    :3000,
 	running_meal    :13,
         // method calling
         previousAddedDining,

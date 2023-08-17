@@ -16,7 +16,7 @@ const members = {
         garage_cost     :0,
         running_payable :3000,
         running_paid    :5000,
-        running_meal    :18,
+        running_meal    :20,
         // method calling
         previousAddedDining,
         previousDue,
@@ -41,7 +41,7 @@ const members = {
         garage_cost     :0,
         running_payable :3053,
         running_paid    :5000,
-        running_meal    :29,
+        running_meal    :30,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :4775,
         running_paid    :7000,
-        running_meal    :19,
+        running_meal    :20,
         // method calling
         previousAddedDining,
         previousDue,
@@ -92,7 +92,7 @@ const members = {
         garage_cost     :0,
         running_payable :2742,
         running_paid    :3000,
-	running_meal    :14,
+	running_meal    :15,
         // method calling
         previousAddedDining,
         previousDue,
@@ -118,7 +118,7 @@ const members = {
         garage_cost     :0,
         running_payable :2803,
         running_paid    :5000,
-        running_meal    :14,
+        running_meal    :15,
         // method calling
         previousAddedDining,
         previousDue,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :2663,
         running_paid    :0,
-        running_meal    :28,
+        running_meal    :29,
         // method calling
         previousAddedDining,
         previousDue,
@@ -464,11 +464,11 @@ function numberChecker() {
         (phoneNumber === "01532023080") ||
         (phoneNumber === "01710430501") ||
         (phoneNumber === "01738393696") ||
-        (phoneNumber === "01794942131") ||
+        (phoneNumber === "01794942131e") ||
         (phoneNumber === "01640454889") ||
         (phoneNumber === "01925315230") ||
         (phoneNumber === "01922635500") ||
-        (phoneNumber === "01400709854")
+        (phoneNumber === "01400709854e")
     ){
         button.style.opacity ="1";      
 //total

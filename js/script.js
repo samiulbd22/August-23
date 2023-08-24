@@ -4,7 +4,7 @@ const members = {
     serviceBill     :35,
     othersBill      :0,
     runningMonth    :"August-23",
-    runningMealRate :63,
+    runningMealRate :61,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -16,7 +16,7 @@ const members = {
         garage_cost     :0,
         running_payable :3000,
         running_paid    :5000,
-        running_meal    :31,
+        running_meal    :32,
         // method calling
         previousAddedDining,
         previousDue,
@@ -41,7 +41,7 @@ const members = {
         garage_cost     :0,
         running_payable :3053,
         running_paid    :5000,
-        running_meal    :37,
+        running_meal    :39,
         // method calling
         previousAddedDining,
         previousDue,
@@ -67,7 +67,7 @@ const members = {
         garage_cost     :0,
         running_payable :4775,
         running_paid    :7000,
-        running_meal    :27,
+        running_meal    :28,
         // method calling
         previousAddedDining,
         previousDue,
@@ -91,8 +91,8 @@ const members = {
         stay_cost       :2000,
         garage_cost     :0,
         running_payable :2742,
-        running_paid    :3000,
-	running_meal    :21,
+        running_paid    :3500,
+	running_meal    :22,
         // method calling
         previousAddedDining,
         previousDue,
@@ -118,7 +118,7 @@ const members = {
         garage_cost     :0,
         running_payable :2803,
         running_paid    :5000,
-        running_meal    :24,
+        running_meal    :25,
         // method calling
         previousAddedDining,
         previousDue,
@@ -194,7 +194,7 @@ const members = {
         stay_cost       :2500,
         garage_cost     :500,
         running_payable :4191,
-        running_paid    :4500,
+        running_paid    :5500,
         running_meal    :21,
         // method calling
         previousAddedDining,
@@ -221,7 +221,7 @@ const members = {
         garage_cost     :0,
         running_payable :2663,
         running_paid    :0,
-        running_meal    :41,
+        running_meal    :43,
         // method calling
         previousAddedDining,
         previousDue,
